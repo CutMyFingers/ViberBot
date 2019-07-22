@@ -1,0 +1,7 @@
+application.viber-bot:
+  auth-token: "49f9ac809a67d459-346b53177139259b-4ecd0aa199e3cdba"
+  webhook-url: "https://67de5e39.ngrok.io"
+  name: "TestBot"
+  avatar: "https://www.wave-grip.com/wp-content/uploads/Depositphotos_54316411_s-2015-400x400.jpg"
+
+logging.level.com.viber: DEBUG
