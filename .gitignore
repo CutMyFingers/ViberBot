@@ -5,3 +5,7 @@ gradlew
 gradlew.bat
 settings.gradle
 .gradle
+.classpath
+.project
+Help.md
+.setting
